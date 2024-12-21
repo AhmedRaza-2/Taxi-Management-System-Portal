@@ -1,0 +1,6 @@
+4455667788,Nauman Ali,Karachi,naumanali@example.com
+5566778899,Mehmood Tariq,Lahore,mehmoodtariq@example.com
+6677889901,Amna Sheikh,Peshawar,amnashaikh@example.com
+7788990012,Asma Raza,Rawalpindi,asmaraza@example.com
+8899001123,Kashan Javed,Karachi,kashanjaved@example.com
+9900112233,Sanam Ahmed,Lahore,sanamahmed@example.com
